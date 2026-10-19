@@ -7,7 +7,7 @@ namespace Assim05
         Fiction,
         NonFiction,
         Science
-    }
+    } //
 
     class Book
     {
